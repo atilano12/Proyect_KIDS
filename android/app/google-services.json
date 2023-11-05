@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "742315454521",
+    "project_id": "student-kids-firebase",
+    "storage_bucket": "student-kids-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742315454521:android:68d7d7ab26d7dd5df3dde8",
+        "android_client_info": {
+          "package_name": "SSP01.student_kids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742315454521-f1ujulvqbm2i41isjhatdnh1ltlmnqms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "SSP01.student_kids",
+            "certificate_hash": "a76a33df1db6e813a788d27c16d43e4346db1071"
+          }
+        },
+        {
+          "client_id": "742315454521-t657jhc4nb3flf8t5q5qtl0n94bvlcg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY9TduoVKGLMXyoMOakNFo6U5Ek6BPd34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742315454521-t657jhc4nb3flf8t5q5qtl0n94bvlcg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
